@@ -6,9 +6,9 @@ Using Power Query, I performed data cleaning and transformation to ensure accura
 
 The dashboard provides insights into:
 
-Trip demand patterns by hour, day, and time of day
-High-frequency pickup and drop-off locations
-Vehicle type usage and booking distribution
-Ride trends across weekdays and peak periods
+Trip demand patterns by hour, day, and time of day.
+High-frequency pickup and drop-off locations.
+Vehicle type usage and booking distribution.
+Ride trends across weekdays and peak periods.
 
 Key features include interactive visualizations, geospatial mapping, and drill-through capabilities, enabling users to explore trends in depth. The project demonstrates strong skills in data modeling, ETL processes, and business intelligence reporting, aligning with real-world analytics scenarios where organizations rely on data to optimize operations and improve decision-making.
